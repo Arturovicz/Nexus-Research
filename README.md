@@ -5,4 +5,5 @@ The language used for this project is essantially python and the project will de
 Besides the techniques above, deep learning took a huge part for the perormance of the bot. The program was overhauled with Sequential model with LSTM and Dense layers, defining a precision of 93%. 
 Lately, it will be possible to add push notifications via a pre-defined messaging application, to coplete the bot.
 
-The shared codes are small, non finished parts of the bot. 
+due to confidentiality issues, we cannot provide
+THE INTEGRITY OF THE BOT PROGRAM CANNOT BE PROVIDED VIA GITHUB DUE TO CONFIDENTIALITY ISSUES. INSTEAD, SMALL CHUNCKS OF OVERALL CODE IS SHARED
