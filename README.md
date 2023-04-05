@@ -6,5 +6,5 @@ Besides the techniques above, deep learning took a huge part for the perormance 
 Lately, it will be possible to add push notifications via a pre-defined SMS, to complete the bot. Statistics are sent to the owner via Telegram
 
 ______________________________________________________________________________________________________________________________________________
-THE INTEGRITY OF THE BOT PROGRAM CANNOT BE PROVIDED VIA GITHUB DUE TO CONFIDENTIALITY ISSUES. INSTEAD, SMALL CHUNCKS OF OVERALL CODE IS SHARED.
+THE INTEGRITY OF THE BOT PROGRAM CANNOT BE PROVIDED VIA GITHUB DUE TO CONFIDENTIALITY ISSUES. INSTEAD, SMALL CHUNCKS OF OVERALL CODE ARE SHARED.
 ______________________________________________________________________________________________________________________________________________
