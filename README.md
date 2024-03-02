@@ -1,4 +1,1 @@
-The idea of this project is to create a trading bot using only technical analysis, since the qualitative/fundamental approach requires opinions from expert analysts and decision makers.
-The bot is based on kraken trading platform, using exceptionnaly kraken api which means that it was initially concieved for cryptocurrency trading.
-The goal of the project is to make as many versions of the bot as possible, which will use every known technical analysis technique (moving averages, exp. smoothing, etc.) in order to find the best one for short- and mid-term trading.
-Lately on, this repository became more of an ensamble of tools that may or may not be used for Quantitative Trading, including the basic/complex price prediction models, NLP models for Sentiment Analysis or even Asset Pricing Models.
+The repository encompasses various research documents covering topics in quantitative finance, such as option/asset pricing models, investment metrics, and portfolio management tools. Additionally, it contains NLP models, predating the introduction of LLMs, designed for sentiment analysis derived from diverse social media sources.
